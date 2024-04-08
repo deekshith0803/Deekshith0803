@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deekshith M</h1>
 <h3 align="center">A passionate frontend developer from kerala</h3>
-<img align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="coding">
 
 - 🌱 I’m currently learning **front-end web development**
 
 - 📫 How to reach me **deekshithm321@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+- <img align="right" width="100%" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="coding">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
