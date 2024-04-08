@@ -23,11 +23,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshith0803&show_icons=true&locale=en&layout=compact" alt="deekshith0803" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith0803&show_icons=true&locale=en" alt="deekshith0803" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith0803&" alt="deekshith0803" /></p>
-
-<img width="100%" height="auto" src="https://www.shutterstock.com/shutterstock/videos/1099895755/thumb/1.jpg?ip=x480" alt="">
+<img width="100%" height="200" src="https://www.shutterstock.com/shutterstock/videos/1099895755/thumb/1.jpg?ip=x480" alt="">
 
