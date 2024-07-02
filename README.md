@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deekshith</h1>
-<h3 align="center">A passionate frontend developer from Kerala, India</h3>
+<h3 align="center">A passionate web developer from Kerala, India</h3>
 <p align="center">
 
 - 🌱 I’m currently learning **MERN Stack web development**
