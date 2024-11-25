@@ -6,8 +6,7 @@
 ---
 
 ## 🚀 About Me  
-🌱 I’m currently learning **MERN Stack web development**.  
-💬 Ask me about **React**, I’ll try my best to help.  
+🌱 I’m currently learning **MERN Stack web development**.    
 📫 How to reach me: **deekshithm321@gmail.com**  
 
 
