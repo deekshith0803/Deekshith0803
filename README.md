@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/deekshith-m-378bb9302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deekshith m" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100072631754805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deekshith m" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dee_kshith_8_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dee_kshith_8._" height="30" width="40" /></a>
-<a href="[https://www.behance.net/deekshith m](https://www.behance.net/deekshithm2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="deekshith m" height="30" width="40" /></a>
+<a href="https://www.behance.net/deekshithm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="deekshith m" height="30" width="40" /></a>
 </p>
 
 
