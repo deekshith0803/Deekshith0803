@@ -54,8 +54,7 @@
 ---
 
 ## ⚡ Fun Fact  
-🎸 I enjoy playing guitar and experimenting with video editing!  
-
+🎸 I enjoy playing games and draw to keep the creativity flowing! 🎮🎨
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
