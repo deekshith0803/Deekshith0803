@@ -18,9 +18,16 @@
 <a href="https://www.behance.net/deekshithm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="deekshith m" height="30" width="40" /></a>
 </p>
 
+<br>
+<div align="center">
+<!--     <h2>💰 You can help me by Donating</h2> -->
+    <a href="https://buymeacoffee.com/deekshith0803">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+    </a>
+</div>
+
+
  ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-
 
 ## 🛠️ Languages and Tools  
 
