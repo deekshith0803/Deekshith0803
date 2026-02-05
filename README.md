@@ -1,3 +1,7 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RITHICK&label=Profile%20views&color=0e75b6&style=flat" alt="RITHICK" /> <a href="https://deekshith0803.github.io/portfolio-/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-rithicks-projects-9c5c9304.vercel.app/"/></a> </p>
+ 
+ <img src="./header.png">
+ 
 <div align="center">
 
 # Hi 👋, I'm Deekshith  
@@ -38,19 +42,22 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
 
-![Deekshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deekshith0803&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Deekshith0803&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith0803&layout=compact&theme=radical)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithick574&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Rithick574&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithick574&theme=dark&hide_border=true" alt="">
+</div>
 ---
+
+
 
 ## ⚡ Fun Fact  
 🎸 I enjoy playing games and draw to keep the creativity flowing! 🎮🎨
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
 </div>
